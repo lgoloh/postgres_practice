@@ -12,7 +12,7 @@ The main tasks include:
 
 
 ### Queries: 
-query_funcs.hpp: Defines the interface for iteracting with the database
+query_funcs.hpp: Defines the interface for interacting with the database
 1. query1(): show all attributes of each player with average statistics that fall between the min and max (inclusive) for each enabled statistic
 2. query2(): show the name of each team with the indicated uniform color
 3. query3(): show the first and last name of each player that plays for the indicated team, ordered from highest to lowest ppg (points per game)
